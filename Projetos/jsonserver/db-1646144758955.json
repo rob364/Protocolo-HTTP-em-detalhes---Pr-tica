@@ -1,0 +1,9 @@
+{
+  "pessoas": [
+    {
+      "id": 1,
+      "nome": "Roberta",
+      "endereco": "Rua de tal"
+    }
+  ]
+}
